@@ -1,1 +1,3 @@
-console.log("Hi I am NodeJS!! I am funnnn!");
+const sum = (a,b) => {
+    return a + b;
+}
